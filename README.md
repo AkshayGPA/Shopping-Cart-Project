@@ -1,4 +1,4 @@
-# F3_ShoppingCartProject_06_05_2023
+# F3_ShoppingCartProject
 This is the HTML5, CSS3, And Vanilla Javascript project
 
 We’ll be creating a simple shopping cart application using html,css and Advanced JS concepts. The topics we’ll cover include promises, async await , using storage APIs and basic API calls while also dealing with complex DOM Manipulations. 
